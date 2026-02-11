@@ -5,11 +5,13 @@ Edureka Interactive Dashboard Creation
 •	Build an interactive dashboard showcasing edureka popular courses using multiple dashboards object.
 
 📊 Edureka Courses & Learners Analysis – Tableau Dashboard
+
 🔎 Project Overview
 This project showcases an interactive Tableau Public Dashboard analyzing Edureka’s online courses and learner distribution. The dashboard provides insights into course popularity, learner engagement, and top-performing certification programs.
 The goal is to visualize course demand and identify the most enrolled programs using clear, data-driven storytelling.
 
 📌 Dashboard Highlights
+
 🎓 1. Courses & Learners Distribution
 
 Bar chart displaying the number of learners enrolled in each course.
